@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 html {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Genos", sans-serif;
 }
 body {
   background: #eee;
@@ -51,11 +51,11 @@ footer p {
   float: left;
 }
 .note h1 {
-  font-size: 1.1em;
+  font-size: 2em;
   margin-bottom: 6px;
 }
 .note p {
-  font-size: 1.1em;
+  font-size: 1.6em;
   margin-bottom: 10px;
   white-space: pre-wrap;
   word-wrap: break-word;
@@ -88,7 +88,7 @@ form.create-note textarea {
   border: none;
   padding: 4px;
   outline: none;
-  font-size: 1.2em;
+  font-size: 2em;
   font-family: inherit;
   resize: none;
 }
